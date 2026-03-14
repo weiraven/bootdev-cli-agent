@@ -10,3 +10,11 @@ wheels/
 # Virtual environments
 .venv/
 .env
+
+# Boot.dev agent runtime artifacts
+calculator/*.txt
+calculator/pkg/*.txt
+
+# accidental directories from tests
+lorem.txt/
+pkg/
