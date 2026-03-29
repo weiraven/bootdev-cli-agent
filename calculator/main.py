@@ -1,7 +1,6 @@
 import sys
 from pkg.calculator import Calculator
 from pkg.render import format_json_output
-from prompts import system_prompt
 
 def main():
     calculator = Calculator()
